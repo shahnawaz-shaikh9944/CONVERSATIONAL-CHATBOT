@@ -1,0 +1,14 @@
+fastapi
+streamlit
+#uvicorn
+python-multipart
+pandas
+openpyxl
+PyPDF2
+python-docx
+python-dotenv
+langchain
+sentence-transformers
+langchain-community>=0.0.22  # or latest
+langchain-openai
+faiss-cpu
